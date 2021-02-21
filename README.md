@@ -2,7 +2,6 @@
 ![](img/logo.png)
 
 **Course Date:** 15.02.2021
-
 **Name:** Elif  
 **Surname:** Özçakmak  
 **Email:** ozcakmakelif@gmail.com  
