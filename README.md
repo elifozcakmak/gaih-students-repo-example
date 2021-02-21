@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/logo.png)
 
-**Course Date:** 18.09.1996  
+**Course Date:** 15.02.2021
 **Name:** Elif  
 **Surname:** Özçakmak  
 **Email:** ozcakmakelif@gmail.com  
